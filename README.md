@@ -33,23 +33,25 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="48%">
       <a href="https://github.com/NRE-Com-Net">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.nemesisre.com/latest/logo/ncn/svg/ncn-lockup-horizontal-dark.svg">
-          <img src="https://cdn.nemesisre.com/latest/logo/ncn/svg/ncn-lockup-horizontal.svg" alt="NRE.Com.Net" height="56">
+          <img src="https://cdn.nemesisre.com/latest/logo/ncn/svg/ncn-lockup-horizontal.svg" alt="NRE.Com.Net" width="85%">
         </picture>
       </a>
-      <br><sub>Services, hosting and Home Assistant apps</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="52%">
       <a href="https://ngn.gg">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.nemesisre.com/latest/logo/ngn/svg/ngn-lockup-horizontal-dark.svg">
-          <img src="https://cdn.nemesisre.com/latest/logo/ngn/svg/ngn-lockup-horizontal.svg" alt="NRE.Game.Net" height="56">
+          <img src="https://cdn.nemesisre.com/latest/logo/ngn/svg/ngn-lockup-horizontal.svg" alt="NRE.Game.Net" width="85%">
         </picture>
       </a>
-      <br><sub>Gaming community</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub>Services, hosting and Home Assistant apps</sub></td>
+    <td align="center" valign="top"><sub>Gaming community</sub></td>
   </tr>
 </table>
