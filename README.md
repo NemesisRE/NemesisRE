@@ -8,7 +8,7 @@
 </a>
 
 <p>
-  <b>Steven, online as NemesisRE since 1999.</b><br>
+  <b>Steven, going by NemesisRE since 1999.</b><br>
   Dad/Husband | FLOSS Platform Architect | Gamer | Homelabber | Nerd
 </p>
 
