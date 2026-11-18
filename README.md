@@ -9,7 +9,7 @@
 
 <p>
   <b>Steven, online as NemesisRE since 1999.</b><br>
-  Home Assistant tinkerer, homelab operator, dotfiles collector.
+  Dad/Husband | FLOSS Platform Architect | Gamer | Homelabber | Nerd
 </p>
 
 <p>
